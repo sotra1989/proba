@@ -1,0 +1,3 @@
+vozac,pera,pera123,Petar,Petrovic,1234567890123,Karadjordjeva 52,MUSKO,0621238668,30000.0,456,1
+musterija,ana,ana123,Ana,Anic,1234567890123,Zorana Djindjica 2,ZENSKO,0621238668
+dispecer,laza,laza123,Lazar,Lazarevic,1234567890123,Vuka Stanisica 56,MUSKO,0621238668,90000.0,+381,ZA_PRIJEM_VOZNJE
