@@ -1,6 +1,7 @@
 package entiteti;
 
 public class Dispecer extends Korisnik {
+    private long id;
     private double plata;
     private String brojTelefonskeLinije;
     private Odeljenje odeljenje;
