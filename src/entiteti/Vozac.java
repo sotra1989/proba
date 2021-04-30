@@ -1,6 +1,7 @@
 package entiteti;
 
 public class Vozac extends Korisnik {
+    private long id;
     private double plata;
     private int brojClanskeKarte;
     private Automobil automobil;
